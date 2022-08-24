@@ -108,11 +108,11 @@ The code took significantly less time to run and execute. As can be seen in the 
 
 The execution time of the initial code:
 
-![initial_code](resources/initial_code.png)
+![initial_code](Resources/initial_code.png)
 
 vs the refactored code:
 
-![initial_code](resources/refactored_code.png)
+![initial_code](Resources/refactored_code.png)
 
 It is important to note, however, that while refactoring your code, it is easy to run into execution errors. It may introduce new bugs that could render the code unfunctional. However, since our script is relatively short, we did not encounter such issues.
 
